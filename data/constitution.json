@@ -1,0 +1,15 @@
+{
+  "preamble": "We the People of the United States, in Order to form a more perfect Union...",
+  "articles": [
+    {
+      "number": 1,
+      "title": "Article I",
+      "sections": [
+        {
+          "number": 1,
+          "text": "All legislative Powers herein granted shall be vested in a Congress of the United States..."
+        }
+      ]
+    }
+  ]
+}
